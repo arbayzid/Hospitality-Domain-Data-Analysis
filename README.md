@@ -1,6 +1,8 @@
 # Hospitality-Domain-Data-Analysis
 A data analysis project on hospitality domain using Power BI
 
+![two-professionals-review-notes-laptop-creating-buisness-meeting-lounge-area-luxury-hotel-international-representatives-attend-important-conference-share-experiences](https://github.com/arbayzid/Hospitality-Domain-Data-Analysis/assets/146184500/476e066a-4f9d-4b27-829d-af78d250fe55)
+
 ## Project Title:
 Provide Insights to the Revenue Team in the Hospitality Domain
 ## Project Overview:
