@@ -2,6 +2,7 @@
 A data analysis project on hospitality domain using Power BI
 
 ![two-professionals-review-notes-laptop-creating-buisness-meeting-lounge-area-luxury-hotel-international-representatives-attend-important-conference-share-experiences](https://github.com/arbayzid/Hospitality-Domain-Data-Analysis/assets/146184500/476e066a-4f9d-4b27-829d-af78d250fe55)
+📊𝐋𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝: [Hospitality Analysis](https://www.novypro.com/project/hospitality-analysis-power-bi-5)
 
 ## Project Title:
 Provide Insights to the Revenue Team in the Hospitality Domain
@@ -111,7 +112,7 @@ The dashboard showcases crucial KPIs such as Total Revenue, Occupancy Rate, Aver
 **Filters:**\
 Some user-friendly filters have been added, enabling customization based on City, Category, Room Class, Property, Booking Platform, Month, and Week, as well as allowing stakeholders to focus on specific segments of interest. These filters enhance the dashboard’s usability and facilitate tailored insights. Additionally, a button has been incorporated to conveniently clear all filters.
 
-📊𝐋𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝 𝐈𝐧𝐭𝐞𝐫𝐚𝐜𝐭𝐢𝐨𝐧: [Hospitality Analysis](https://www.novypro.com/project/hospitality-analysis-power-bi-5)
+📊𝐋𝐢𝐯𝐞 𝐃𝐚𝐬𝐡𝐛𝐨𝐚𝐫𝐝: [Hospitality Analysis](https://www.novypro.com/project/hospitality-analysis-power-bi-5)
 
 ## Key Insights:
 Here are some important insights from the Dashboard:
